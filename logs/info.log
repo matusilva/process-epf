@@ -1,0 +1,71 @@
+Info: : 5255 mini-second(s) publishing element DeliveryProcess:Facebook[facebook\deliveryprocesses\Facebook_627A4FEE.html]
+Info: DeliveryProcess:Facebook: 5257 mini seconds publishing element
+Info: DeliveryProcess:Facebook: 1011 mini seconds publishing process specific layout data
+Info: Phase:New Phase: 615 mini seconds publishing element
+Info: Task:desenvolver: 418 mini seconds publishing element
+Info: TaskDescriptor:desenvolver: 487 mini seconds publishing element
+Info: : 2085 mini-second(s) publishing element Role:desenvolvedor[facebook\roles\desenvolvedor_78AAEC0D.html]
+Info: Role:desenvolvedor: 2086 mini seconds publishing element
+Info: RoleDescriptor:desenvolvedor: 286 mini seconds publishing element
+Info: Artifact:codigo: 52 mini seconds publishing element
+Info: WorkProductDescriptor:codigo: 402 mini seconds publishing element
+Info: Task:testar_codigo_desenvolvido: 23 mini seconds publishing element
+Info: TaskDescriptor:testar_codigo_desenvolvido: 53 mini seconds publishing element
+Info: Artifact:codigo_testado: 57 mini seconds publishing element
+Info: WorkProductDescriptor:codigo_testado: 70 mini seconds publishing element
+Info: Task:corrigir_bug: 30 mini seconds publishing element
+Info: TaskDescriptor:corrigir_bug: 67 mini seconds publishing element
+Info: Artifact:codigo_corrigido: 53 mini seconds publishing element
+Info: WorkProductDescriptor:codigo_corrigido: 56 mini seconds publishing element
+Info: Phase:New Phase_2: 339 mini seconds publishing element
+Info: Task:realizar_testes_entre_os_desenvolvedores: 24 mini seconds publishing element
+Info: TaskDescriptor:realizar_testes_entre_os_desenvolvedores: 54 mini seconds publishing element
+Info: RoleDescriptor:desenvolvedor: 52 mini seconds publishing element
+Info: WorkProductDescriptor:codigo: 50 mini seconds publishing element
+Info: Artifact:implantacao: 41 mini seconds publishing element
+Info: WorkProductDescriptor:implantacao: 54 mini seconds publishing element
+Info: WorkProductDescriptor:codigo_testado: 62 mini seconds publishing element
+Info: Task:resolver_problemas: 29 mini seconds publishing element
+Info: TaskDescriptor:resolver_problemas: 200 mini seconds publishing element
+Info: WorkProductDescriptor:codigo_corrigido: 66 mini seconds publishing element
+Info: Phase:New Phase_3: 332 mini seconds publishing element
+Info: Phase:New Phase: 459 mini seconds publishing element
+Info: Task:implantar_em_servidores_internos: 27 mini seconds publishing element
+Info: TaskDescriptor:implantar_em_servidores_internos: 68 mini seconds publishing element
+Info: RoleDescriptor:desenvolvedor: 70 mini seconds publishing element
+Info: WorkProductDescriptor:codigo: 58 mini seconds publishing element
+Info: WorkProductDescriptor:implantacao: 55 mini seconds publishing element
+Info: Artifact:implantacao_h1: 43 mini seconds publishing element
+Info: WorkProductDescriptor:implantacao_h1: 56 mini seconds publishing element
+Info: Task:testar_em_servidores_internos: 26 mini seconds publishing element
+Info: TaskDescriptor:testar_em_servidores_internos: 53 mini seconds publishing element
+Info: WorkProductDescriptor:codigo_testado: 54 mini seconds publishing element
+Info: TaskDescriptor:resolver_problemas: 52 mini seconds publishing element
+Info: WorkProductDescriptor:codigo_corrigido: 50 mini seconds publishing element
+Info: Phase:New Phase_2: 398 mini seconds publishing element
+Info: Task:implantar_em_conjunto_de_maquinas_pro_mundo_real: 26 mini seconds publishing element
+Info: TaskDescriptor:implantar_em_conjunto_de_maquinas_pro_mundo_real: 68 mini seconds publishing element
+Info: RoleDescriptor:desenvolvedor: 71 mini seconds publishing element
+Info: WorkProductDescriptor:implantacao_h1: 52 mini seconds publishing element
+Info: Artifact:implantacao_h2: 40 mini seconds publishing element
+Info: WorkProductDescriptor:implantacao_h2: 51 mini seconds publishing element
+Info: Task:realizar_testes_com_usuario: 23 mini seconds publishing element
+Info: TaskDescriptor:realizar_testes_com_usuario: 58 mini seconds publishing element
+Info: Role:usuario: 53 mini seconds publishing element
+Info: RoleDescriptor:usuario: 49 mini seconds publishing element
+Info: WorkProductDescriptor:codigo_testado: 52 mini seconds publishing element
+Info: TaskDescriptor:resolver_problemas: 51 mini seconds publishing element
+Info: WorkProductDescriptor:codigo_corrigido: 49 mini seconds publishing element
+Info: Phase:New Phase_3: 249 mini seconds publishing element
+Info: Task:implatar_em_todos_os_servidores: 27 mini seconds publishing element
+Info: TaskDescriptor:implatar_em_todos_os_servidores: 67 mini seconds publishing element
+Info: RoleDescriptor:desenvolvedor: 63 mini seconds publishing element
+Info: WorkProductDescriptor:implantacao_h2: 64 mini seconds publishing element
+Info: Artifact:implantacao_h3: 47 mini seconds publishing element
+Info: WorkProductDescriptor:implantacao_h3: 51 mini seconds publishing element
+Info: CustomCategory:Configuration free process view: 272 mini seconds publishing element
+Info: CustomCategory:Tasks: 21 mini seconds publishing element
+Info: CustomCategory:Roles: 18 mini seconds publishing element
+Info: CustomCategory:Work Products: 21 mini seconds publishing element
+Info: CustomCategory:Processes: 19 mini seconds publishing element
+Info: : Publishing time: 0 minutes 18 seconds
